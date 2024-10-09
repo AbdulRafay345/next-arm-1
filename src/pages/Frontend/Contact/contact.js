@@ -99,7 +99,7 @@ export default function Contact() {
                   </div>
                   <div className="contact__two-left-item-info">
                     <span>Phone</span>
-                    <p>07993725394</p>
+                    <p>+91-7993725394</p>
                   </div>
                 </div>
                 <hr className='mb-5' style={{ width: isMobile ? '100%' : '380px' }} />

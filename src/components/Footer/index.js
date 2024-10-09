@@ -57,7 +57,7 @@ export default function Footer() {
                                             <i className="fa fa-phone " style={{ color: '#0185c3' }}></i>
                                         </div>
                                         <div className="footer__two-widget-location-item-info ">
-                                            <p>07993725394</p>
+                                            <p>+91-7993725394</p>
                                         </div>
                                     </div>
                                     <div className="footer__two-widget-location-item d-flex " style={{ gap: '15px' }}>

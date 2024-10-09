@@ -16,7 +16,7 @@ export default function ContactBar() {
                             <a style={{ textDecoration: 'none', color: 'white' }}>
                                 <i className="fas fa-phone mx-2" />
                                 {/* <AiFillPhone style={{ color: '#0185c3', marginRight: '2px' }} /> */}
-                                07993725394
+                                +91-7993725394
                             </a>
                             &nbsp;&nbsp;&nbsp;&nbsp;<span style={{ color: "#ffffff" }}>|</span>
                             &nbsp;&nbsp;&nbsp;&nbsp;
